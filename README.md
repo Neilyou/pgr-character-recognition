@@ -16,6 +16,17 @@
 - 📱 **响应式设计**：支持桌面和移动设备
 - 🚀 **快速识别**：CPU模式下2-4秒完成识别
 
+## 📸 效果展示
+
+### 主页界面
+![上传页面](screenshots/upload_page.png)
+
+### 识别结果（V2版本 - 人脸检测）
+![识别结果](screenshots/detection_result.png)
+
+### 训练曲线
+![训练曲线](screenshots/training_curves.png)
+
 ## 📊 支持的角色
 
 系统可识别19个战双帕弥什角色：
