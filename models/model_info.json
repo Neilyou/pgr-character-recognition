@@ -1,0 +1,30 @@
+{
+  "model_name": "resnet18",
+  "num_classes": 19,
+  "class_names": [
+    "21hao",
+    "aerfa",
+    "aila",
+    "bianka",
+    "dubian",
+    "kaleinina",
+    "kuluomu",
+    "lee",
+    "lifu",
+    "luna",
+    "luosaita",
+    "luxiya",
+    "nuoan",
+    "qishi",
+    "qu",
+    "sailinna",
+    "shenwei",
+    "wanshi",
+    "weila"
+  ],
+  "input_size": 224,
+  "best_accuracy": 0.8098159509202454,
+  "num_epochs": 30,
+  "batch_size": 16,
+  "learning_rate": 0.001
+}

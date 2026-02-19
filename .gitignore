@@ -1,0 +1,68 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Jupyter Notebook
+.ipynb_checkpoints
+*.ipynb
+
+# PyTorch
+*.pth
+*.pt
+
+# IDE
+.vscode/
+.idea/
+.cursor/
+*.swp
+*.swo
+*~
+
+# Kiro
+.kiro/
+
+# 数据文件夹（太大，不上传）
+战双人物图像_原始数据/
+战双人物图像_调整尺寸/
+classification_dataset/
+annotation_workspace/
+新收集图片/
+露娜测试图片/
+
+# 模型文件（太大，不上传）
+models/*.pth
+models/*.pt
+
+# 临时文件
+*.jpg
+*.jpeg
+*.png
+*.webp
+test*.jpg
+*.html
+游戏壁纸*
+
+# 其他
+.DS_Store
+Thumbs.db
